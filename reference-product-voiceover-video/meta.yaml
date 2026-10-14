@@ -1,0 +1,15 @@
+display-name-zh: 口播广告制作
+version: 0.5.0
+tag-en: "Video / Creative Generation"
+tag-cn: "视频 / 创作生成"
+complete-tags-en:
+  - "Video / Creative Generation"
+complete-tags-cn:
+  - "视频 / 创作生成"
+summary-en: "Creates short voiceover ads for any product or service from references and user copy, with Skill-directed, LLM-executed MG animation, kinetic typography, UI explanation, captions, and repair paths."
+summary-cn: "基于参考素材和用户文案，为任何商品或服务制作短口播广告，由 Skill 下达统一要求、LLM 执行并由 Skill 验收 MG 动效、功能讲解、字幕与生成修复。"
+desc-en: "This Skill turns reference videos, product images, documents, audio, selling points, or exact copy into short voiceover advertisements for any product category or service. Users provide source material and delivery constraints; the Skill checks claims and reference limits, analyzes structure and pacing, builds a duration-matched script, and issues a unified instruction for the LLM to execute presenter footage, product demonstrations, reference-derived structure, voiceover, captions, MG animation, and hybrid overlays, then validates the result. The Skill's instruction requires the LLM to plan and execute kinetic typography, feature cards, UI states, diagrams, graphic transitions, captions, and voiceover timing instead of applying a stock template. It supports commercial ads across fashion, beauty, food, electronics, household goods, software, education, local services, and industrial products. It is not for long narrative TVC campaigns, documentaries, or subtitle-only editing."
+desc-cn: "口播广告制作面向需要为任意商品、服务或产品类型制作短口播广告的创作者。用户可提供参考视频、产品图片、资料、音频、核心卖点或准确台词，并说明时长、画幅、分辨率、语言和字幕需求。Skill 会先检查事实主张与参考限制，分析结构、节奏、演示逻辑和包装方式，由 Skill 向 LLM 下达统一要求，要求其执行真人/产品展示、参考视频结构、口播、字幕、MG 动效和混合叠加，随后由 Skill 验收结果并编写匹配时长的口播脚本。Skill 会要求 LLM 规划并执行动态排版、功能卡片、UI 状态、流程图、图形转场、字幕与口播时间，不套用固定模板。适用于服饰、美妆、食品、数码、家居、软件、教育、服务和工业产品等短商业广告，不适用于长篇剧情 TVC、纪录片或纯字幕编辑。"
+author-en: "User"
+author-cn: "用户"
+source: community
